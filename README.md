@@ -80,7 +80,13 @@ My portfolio and personal site.
 - **MathCON** — National Qualifier (97th percentile) · **2x MAML Finalist** · Top 5 Varsity, WOCOMAL
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanayMangal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+  <img src="https://img.shields.io/badge/HiMCM_2025-Meritorious_%C2%B7_Top_13%25-2ea44f?style=for-the-badge" alt="HiMCM" />
+  <img src="https://img.shields.io/badge/M3_Challenge_2026-Top_20%25-blue?style=for-the-badge" alt="M3C" />
+  <img src="https://img.shields.io/badge/Purple_Comet_2026-1st_in_MA-8A6BF2?style=for-the-badge" alt="Purple Comet" />
+  <br/>
+  <img src="https://img.shields.io/badge/ACSL_Finals_2026-Bronze-cd7f32?style=for-the-badge" alt="ACSL" />
+  <img src="https://img.shields.io/badge/IMC_Prosperity_2026-Top_25%25_Worldwide-orange?style=for-the-badge" alt="IMC Prosperity" />
+  <img src="https://img.shields.io/badge/MTFC-New_England_Finalist-1f6feb?style=for-the-badge" alt="MTFC" />
 </p>
 
 ---
